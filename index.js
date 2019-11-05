@@ -15,7 +15,7 @@ function multiply(a, b){
 function divide(a, b){
   return a / b
 }
-function increment(a){
-  a ++
-  return a
+function increment(n){
+  n ++
+  return n
 }
